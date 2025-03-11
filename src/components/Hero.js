@@ -39,7 +39,7 @@ function Hero() {
         {/* Resume Download Section */}
         <div className="mt-6">
           <a
-            href="/my_resume.pdf" // Make sure resume.pdf is inside the public folder
+            href="/Bhavesh_Resume.pdf" // Make sure resume.pdf is inside the public folder
             download="Bhavesh_Resume.pdf"
             className="inline-flex items-center gap-2 px-6 py-3 bg-gray-800 hover:bg-gray-700 text-white font-semibold rounded-lg transition-all border border-gray-600 shadow-md"
           >
